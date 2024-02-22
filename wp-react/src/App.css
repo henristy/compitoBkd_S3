@@ -1,0 +1,7 @@
+.content * {
+  max-width: 100% !important;
+}
+
+.content img {
+  max-height: 500px;
+}
